@@ -1,14 +1,6 @@
 Ingredients:
-<<<<<<< HEAD
  - 1 1/2 cup butter
- - 2/3 cup cocoa
-||||||| merged common ancestors
- - 1/2 cup butter
- - 2/3 cup cocoa
-=======
- - 1/2 cup butter
  - 2 2/3 cup cocoa
->>>>>>> refs/remotes/origin/master
  - 3 cups powdered sugar
  - 1/3 cup milk
  - 1 teaspoon vanilla extract
